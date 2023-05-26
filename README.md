@@ -7,10 +7,17 @@ Pada Game ini (Jungle Dash) adalah game dengan genre "Platformer Game" yang dima
 
 # Cara Memainkan Game (Jungle Dash):
 
-Gunakan Command:
+Saat dalam Pemilihan Level Gunakan Command:
+1. [Arrow >] untuk mengganti level selanjutnya
+2. [Arrow <] untuk mengganti level sebelumnya
+3. [space] untuk memasuki level
+
+
+Saat dalam Level Gunakan Command:
 1. [D]: untuk berjalan kekanan
 2. [A]: untuk berjalan kekiri
 3. [space]: untuk melompat
+
 
 # TUTORIAL INSTALASI GAME
 1. pip install pygame
@@ -20,11 +27,15 @@ Gunakan Command:
 pygame
 
 # Dokumentasi
+![image](https://github.com/Mrnopri/Tugas-Besar-PBO/assets/105790070/303c7d66-2c11-4071-b19c-081051b00db6)
+![image](https://github.com/Mrnopri/Tugas-Besar-PBO/assets/105790070/ff0c3a2a-e2ca-469d-9290-1fb201fd152d)
+![image](https://github.com/Mrnopri/Tugas-Besar-PBO/assets/105790070/8b42a981-1e6d-4792-b92d-191450cd26bb)
+
 
 Nama Anggota [
 1. Shakira Putri Abrar (121140053)
 2. Dila Ayu Prastita (121140075)
-3. M. Rizzky Nopriansyah (121140132)
+3. Muhamad Rizzky Nopriansyah (121140132)
 4. Zahra Areefa Ananta (121140138)
 5. M. Bintang Erlangga H. (121140171)
 6. Bani Adam Tampubolon (121140187)
