@@ -1,10 +1,10 @@
 # Tugas Besar PBO RC Kel JUNGLE DASH
 
-# ----------------------------------------#
+# ----------------------------------------
 # TUTORIAL
 1. pip install pygame
 2. play at main.py
-# ----------------------------------------#
+# ----------------------------------------
 
 Nama Anggota [
 1. Shakira Putri Abrar (121140053)
