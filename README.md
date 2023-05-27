@@ -28,11 +28,21 @@ pygame
 
 # Dokumentasi
 ![image](https://github.com/Mrnopri/Tugas-Besar-PBO/assets/105790070/303c7d66-2c11-4071-b19c-081051b00db6)
+Terdapat halaman main menu yang didalamnya terdapat beberapa tombol berupa :
+1. Play : umumnya tombol ini digunakan untuk memulai atau memulai kembali permainan. ketika player menekan tombol play, maka permainan akan memulai, dan anda akan masuk kedalam lingkungan permainan.
+2. Settings : tombol yang memberikan akses ke menu pengaturan di dalam permainan.
+3. level : digunakan untuk mengatur atau memilih tingkat kesulitan atau tingkat permainan yang ingin dimainkan.
+4. about : untuk memberikan informasi mengenai game tersebut.
+5. quit : tombol ini digunakan untuk keluar dari program / game.
+
 ![image](https://github.com/Mrnopri/Tugas-Besar-PBO/assets/105790070/ff0c3a2a-e2ca-469d-9290-1fb201fd152d)
+gambar diatas adalah tampilan dari pilihan lavel pada game kami.
+
 ![image](https://github.com/Mrnopri/Tugas-Besar-PBO/assets/105790070/8b42a981-1e6d-4792-b92d-191450cd26bb)
+berikut gambar diatas adalah tampilan dari gameplay kami.
 
 
-Nama Anggota [
+Nama Anggota 
 1. Shakira Putri Abrar (121140053)
 2. Dila Ayu Prastita (121140075)
 3. Muhamad Rizzky Nopriansyah (121140132)
